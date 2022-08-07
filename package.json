@@ -33,8 +33,8 @@
   "types": "lib/index.d.ts",
   "dependencies": {
     "ethereumjs-abi": "0.6.8",
-    "wyvern-js": "4.0.1",
-    "wyvern-schemas": "0.15.1",
+    "wyvern-js": "3.0.0-rc3",
+    "wyvern-schemas": "0.6.15",
     "@opensea/seaport-js": "^1.0.2",
     "ajv": "^8.11.0",
     "bignumber.js": "9.0.2",
